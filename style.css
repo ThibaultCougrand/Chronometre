@@ -1,0 +1,10 @@
+.chrono {
+    height: 30vh;
+    width: 70vw;
+    border: 1px solid black;
+    text-align: center;
+}
+.chrono p {
+    font-size: 25vh;
+    margin: 0;
+}
